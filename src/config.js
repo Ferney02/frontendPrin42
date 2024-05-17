@@ -1,6 +1,6 @@
 module.exports = {
     api: {
-        baseURL: "backendprin42.onrender.com"
+        baseURL: "https://backendprin42.onrender.com"
     }
 }
 
