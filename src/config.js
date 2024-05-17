@@ -1,5 +1,7 @@
 module.exports = {
     api: {
-        baseURL: "http://localhost:5050"
+        baseURL: "backendprin42.onrender.com"
     }
 }
+
+//http://localhost:5050
